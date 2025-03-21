@@ -329,6 +329,9 @@ button {
     .navbar-menu-toggle {
         display: block;
     }
+    .side-navbar {
+        width: 35%;
+    }
     .side-navbar a {
 
         color: #fff;
